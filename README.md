@@ -1,2 +1,2 @@
 # priya_resume
-my resume
+Hi ,I am Priya
